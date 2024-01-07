@@ -32,6 +32,16 @@
 <br/>
 
 ## 🗣️ 프로젝트 진행 
+매주 정해진 날짜에 회의를 진행하여 의견을 공유했고, 작업 내용은 JIRA를 통해 공유했습니다.
+
+<br/>
+
+![image](https://github.com/LMS-Final-Projects/.github/assets/67565707/b0e0909c-e4a9-4a6f-a7d9-13316f69d080)
+
+<br/>
+
+![image](https://github.com/LMS-Final-Projects/.github/assets/67565707/37f077e3-7c31-468b-838d-cdc61c52a8df)
+
 
 
 
