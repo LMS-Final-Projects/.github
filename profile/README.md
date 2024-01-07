@@ -1,12 +1,19 @@
-## Hi there 👋
+# LMS-FINAL-PROJECT
+<br/>
 
-<!--
+![image](https://github.com/LMS-Final-Projects/.github/assets/67565707/19b03332-c371-4418-a9e0-830ed437de42)
+<br/><br/>
 
-**Here are some ideas to get you started:**
+## 📌 프로젝트 목적 
+<br/>
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+학사정보관리 시스템을 MSA 방식으로 구현하여 서비스 간 의존도를 낮추고, 유연한 서비스를 구축하는 것이 목표입니다.
+<br/><br/>
+
+## 🖥 Role: 담당 기능 
+<br/>
+
+| 이름       | 포지션       | 담당 기능 구현          |
+| ---------- | ------------ | ----------------------------------------|
+| 안재원 | `FE` / `BE` | `입력` | 
+| 채오성 | `FE` / `BE` | `입력` | 
