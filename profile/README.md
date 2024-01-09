@@ -32,6 +32,18 @@
 
 <br/>
 
+## 🚀 트러블 슈팅
+
+> ### Test
+> 
+ * 문제상황
+   + 문제
+
+ * 해결방안
+   + 해결함
+
+
+
 ## 🖋️ 사용 기술 
 #### Environment & tools
 <img src="https://img.shields.io/badge/IntelliJ-000000?style=flat&logo=intellijidea&logoColor=white"> <img src="https://img.shields.io/badge/Github-181717?style=flat&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=slack&logoColor=white"> <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white"> 
