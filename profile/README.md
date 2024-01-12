@@ -62,7 +62,7 @@
 <br/>
 
 ## 📸 시연 영상 
-- [보러가기](https://www.youtube.com/watch?v=Y5-bsJD7zK4)
+- [LMS-FINAL-PROJECT](https://www.youtube.com/watch?v=Y5-bsJD7zK4)
 
 
 
