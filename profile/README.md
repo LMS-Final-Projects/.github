@@ -62,7 +62,7 @@
 <br/>
 
 ## 📸 시연 영상 
-- [링크](https://www.youtube.com/watch?v=Y5-bsJD7zK4)https://www.youtube.com/watch?v=Y5-bsJD7zK4
+- [보러가기](https://www.youtube.com/watch?v=Y5-bsJD7zK4)
 
 
 
