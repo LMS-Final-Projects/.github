@@ -38,15 +38,12 @@
 
 <br/>
 
-
-
-## 📁 서비스 아키텍처 
-![제목 없는 다이어그램](https://github.com/LMS-Final-Projects/.github/assets/67565707/10fedad3-aaf6-4ba3-993d-939abd4cf3da)
+![image](https://github.com/LMS-Final-Projects/.github/assets/134196095/d8389cb3-3e20-4293-9edd-4db3a22d7bf4)
 
 <br/>
 
-## 📁 회의파일 관리
-![image](https://github.com/LMS-Final-Projects/.github/assets/134196095/d8389cb3-3e20-4293-9edd-4db3a22d7bf4)
+## 📁 서비스 아키텍처 
+![제목 없는 다이어그램](https://github.com/LMS-Final-Projects/.github/assets/67565707/10fedad3-aaf6-4ba3-993d-939abd4cf3da)
 
 <br/>
 
