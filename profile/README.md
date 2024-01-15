@@ -24,7 +24,7 @@
 ![image](https://github.com/LMS-Final-Projects/.github/assets/67565707/b0e0909c-e4a9-4a6f-a7d9-13316f69d080)
 
 <br/>
-> ### 지라
+### 지라
 
 > ![지라(메인페이지)](https://github.com/LMS-Final-Projects/.github/assets/134196095/534a5b1b-69f8-4e9c-b519-2f9afd358bf6)
 ![지라(기획)](https://github.com/LMS-Final-Projects/.github/assets/134196095/1ba75e36-ccdf-4fc6-8973-ca2fc5bb333d)
