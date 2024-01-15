@@ -38,7 +38,7 @@
 ![image](https://github.com/LMS-Final-Projects/.github/assets/134196095/d8389cb3-3e20-4293-9edd-4db3a22d7bf4)
 
 ##📢 API 명세서
-https://www.notion.so/f5e921a5de284902a56837b01f087cdf?v=2680c1384e634e61bc39ceff0c191cb8
+[https://www.notion.so/f5e921a5de284902a56837b01f087cdf?v=2680c1384e634e61bc39ceff0c191cb8](https://teal-beef-c93.notion.site/f5e921a5de284902a56837b01f087cdf?v=2680c1384e634e61bc39ceff0c191cb8&pvs=4)
 
 
 > ### Test
