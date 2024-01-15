@@ -72,7 +72,7 @@
 
 #### Development - BackEnd
 <img src="https://img.shields.io/badge/Springboot-6DB33F?style=flat&logo=springboot&logoColor=white"> <img src="https://img.shields.io/badge/SpringbootJpa-6DB33F?style=flat&logo=springboot&logoColor=white"> <img src="https://img.shields.io/badge/Jsonwebtokens-000000?style=flat&logo=jsonwebtokens&logoColor=white"> <img src="https://img.shields.io/badge/Gradle-02303A?style=flat&logo=gradle&logoColor=white"> 
-<img src="https://img.shields.io/badge/KAFKA-000000?style=flat&logo=intellijidea&logoColor=white">
+<img src="https://img.shields.io/badge/KAFKA-231F20?style=flat&logo=intellijidea&logoColor=white">
 
 
 #### Distribution - CI / CD
