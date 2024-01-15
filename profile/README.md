@@ -24,10 +24,17 @@
 ![image](https://github.com/LMS-Final-Projects/.github/assets/67565707/b0e0909c-e4a9-4a6f-a7d9-13316f69d080)
 
 <br/>
+> ### 지라
 
-![image](https://github.com/LMS-Final-Projects/.github/assets/67565707/37f077e3-7c31-468b-838d-cdc61c52a8df)
+> ![지라(메인페이지)](https://github.com/LMS-Final-Projects/.github/assets/134196095/534a5b1b-69f8-4e9c-b519-2f9afd358bf6)
+![지라(기획)](https://github.com/LMS-Final-Projects/.github/assets/134196095/1ba75e36-ccdf-4fc6-8973-ca2fc5bb333d)
+![지라(기획-세부)](https://github.com/LMS-Final-Projects/.github/assets/134196095/e8fb6e26-c3d4-48b3-b1bd-0a9c80237428)
+![지라(프로젝트)](https://github.com/LMS-Final-Projects/.github/assets/134196095/b78b8bb4-c140-442e-ab5c-65b2009c6135)
+![지라(프로젝트-세부)](https://github.com/LMS-Final-Projects/.github/assets/134196095/ae7dbf26-c8aa-4bb1-acc0-5c0f0538837d)
 
 <br/>
+
+
 
 ## 📁 서비스 아키텍처 
 ![제목 없는 다이어그램](https://github.com/LMS-Final-Projects/.github/assets/67565707/10fedad3-aaf6-4ba3-993d-939abd4cf3da)
