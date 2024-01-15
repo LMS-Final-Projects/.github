@@ -31,6 +31,8 @@
 
 <br/>
 
+![image](https://github.com/LMS-Final-Projects/.github/assets/134196095/d8389cb3-3e20-4293-9edd-4db3a22d7bf4)
+
 ![image](https://github.com/LMS-Final-Projects/.github/assets/67565707/b0e0909c-e4a9-4a6f-a7d9-13316f69d080)
 
 <br/>
@@ -40,10 +42,6 @@
 ![지라(기획-세부)](https://github.com/LMS-Final-Projects/.github/assets/134196095/e8fb6e26-c3d4-48b3-b1bd-0a9c80237428)
 ![지라(프로젝트)](https://github.com/LMS-Final-Projects/.github/assets/134196095/b78b8bb4-c140-442e-ab5c-65b2009c6135)
 ![지라(프로젝트-세부)](https://github.com/LMS-Final-Projects/.github/assets/134196095/ae7dbf26-c8aa-4bb1-acc0-5c0f0538837d)
-
-<br/>
-
-![image](https://github.com/LMS-Final-Projects/.github/assets/134196095/d8389cb3-3e20-4293-9edd-4db3a22d7bf4)
 
 <br/>
 
