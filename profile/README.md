@@ -11,8 +11,13 @@
 ## 👥 팀원 소개 
 | 이름       | 포지션       | 담당한 핵심 기능          |
 | ---------- | ------------ | ----------------------------------------|
-| 안재원 | `FE` / `BE` | `수강 신청 서비스` | 
-| 채오성 | `FE` / `BE` | `스케줄 등록` | 
+| 안재원 | `FE` / `BE` | `Gateway 및 프론트 서버 등 서버 환경 구축` `수강신청 서비스` `성적 서비스` | 
+| 채오성 | `FE` / `BE` | `스케줄 등록` `파일 관리 서비스` `쪽지 서비스` | 
+
+<br/>
+
+## 📁 API 명세서
+[https://www.notion.so/f5e921a5de284902a56837b01f087cdf?v=2680c1384e634e61bc39ceff0c191cb8](https://teal-beef-c93.notion.site/f5e921a5de284902a56837b01f087cdf?v=2680c1384e634e61bc39ceff0c191cb8&pvs=4)
 
 <br/>
 
@@ -42,11 +47,6 @@
 
 ## 📁 회의파일 관리
 ![image](https://github.com/LMS-Final-Projects/.github/assets/134196095/d8389cb3-3e20-4293-9edd-4db3a22d7bf4)
-
-<br/>
-
-## 📁 API 명세서
-[https://www.notion.so/f5e921a5de284902a56837b01f087cdf?v=2680c1384e634e61bc39ceff0c191cb8](https://teal-beef-c93.notion.site/f5e921a5de284902a56837b01f087cdf?v=2680c1384e634e61bc39ceff0c191cb8&pvs=4)
 
 <br/>
 
