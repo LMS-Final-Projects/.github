@@ -8,16 +8,21 @@
 
 <br/>
 
+## 📁 API 명세서
+[https://www.notion.so/f5e921a5de284902a56837b01f087cdf?v=2680c1384e634e61bc39ceff0c191cb8](https://teal-beef-c93.notion.site/f5e921a5de284902a56837b01f087cdf?v=2680c1384e634e61bc39ceff0c191cb8&pvs=4)
+
+<br/>
+
+## 📸 시연 영상 
+- [LMS-FINAL-PROJECT](https://www.youtube.com/watch?v=Y5-bsJD7zK4)
+
+<br/>
+  
 ## 👥 팀원 소개 
 | 이름       | 포지션       | 담당한 핵심 기능          |
 | ---------- | ------------ | ----------------------------------------|
 | 안재원 | `FE` / `BE` | `Gateway 및 프론트 서버 등 서버 환경 구축` `수강신청 서비스` `성적 서비스` | 
 | 채오성 | `FE` / `BE` | `스케줄 등록` `파일 관리 서비스` `쪽지 서비스` | 
-
-<br/>
-
-## 📁 API 명세서
-[https://www.notion.so/f5e921a5de284902a56837b01f087cdf?v=2680c1384e634e61bc39ceff0c191cb8](https://teal-beef-c93.notion.site/f5e921a5de284902a56837b01f087cdf?v=2680c1384e634e61bc39ceff0c191cb8&pvs=4)
 
 <br/>
 
@@ -93,13 +98,4 @@
 <img src="https://img.shields.io/badge/Googlecloud-4285F4?style=flat&logo=googlecloud&logoColor=white"> <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=white"> <img src="https://img.shields.io/badge/jenkins-D24939?style=flat&logo=jenkins&logoColor=white">  
 
 <br/>
-
-## 📸 시연 영상 
-- [LMS-FINAL-PROJECT](https://www.youtube.com/watch?v=Y5-bsJD7zK4)
-
-
-
-
-
-
 
