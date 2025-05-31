@@ -1,6 +1,12 @@
 # LMS-FINAL-PROJECT
 <br/>
 
+프로젝트 관련 자료와 코드는 아래 깃허브 저장소에서 확인할 수 있습니다.
+
+[https://github.com/LMS-Final-Projects](https://github.com/LMS-Final-Projects)
+
+<br/>
+
 ![image](https://github.com/LMS-Final-Projects/.github/assets/67565707/19b03332-c371-4418-a9e0-830ed437de42)
 
 ## 📌 프로젝트 목적 
